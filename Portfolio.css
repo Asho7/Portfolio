@@ -1,0 +1,27 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+header {
+	padding: 15%;
+	background-image:url("radek-grzybowski-eBRTYyjwpRY-unsplash.jpg"); 
+	font-family: Helvetica;
+
+}
+.flex-container {
+	padding: 20px;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+}
+div {
+	margin: auto;
+
+}
+footer {
+	display: flex;
+	padding: 20px;
+	background: black;
+	color: white;
+	justify-content: center;
+}
